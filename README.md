@@ -223,4 +223,4 @@ StarMade is offered as a full free version with **all features and updates inclu
 Get ready to explore the infinite possibilities of the universe with StarMade! Download now and start your adventure today!
 
 ---
-**Last updated:** 2026-10-31 22:58:25 UTC
+**Last updated:** 2026-11-01 01:59:05 UTC
